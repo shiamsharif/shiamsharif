@@ -5,8 +5,8 @@
 
 <img align="right" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width=400 height=660 frameBorder="0" allowFullScreen></img>
 
-![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg#gh-dark-mode-only)
-<!-- ![](https://raw.githubusercontent.com/xX0ZAK0Xx/cf/main/output/light_card.svg) -->
+![](https://raw.githubusercontent.com/shiamsharif/cf/main/output/light_card.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/shiamsharif/cf/main/output/light_card.svg) -->
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xX0ZAK0Xx" alt="xX0ZAK0Xx" /></a> </p> -->
