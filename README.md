@@ -1,4 +1,4 @@
-<h1 align="center">Hay! I'm Shiam Sharif</h1>
+<h1 align="center">Hey! I'm Shiam Sharif</h1>
 <h3 align="center">A passionate programmer</h3>
 
 <!-- <img align="right" src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
