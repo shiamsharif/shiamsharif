@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Shiam Sharif</h1>
+<h1 align="center">Hey! This is Shiam Sharif</h1>
 <h3 align="center">A passionate programmer</h3>
 
 <!-- <img align="right" src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/shiam-sharif-736339251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zayed oyshik" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009853391200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. zayed oyshik" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shiam.sharif.07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakgrammer" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ShiamSharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xx_zak_xx" height="30" width="40" /></a>
+
 
 </p>
 
