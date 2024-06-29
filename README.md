@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sheike Shiam Sharif! 👋
 
 ## About Me
 I am a Computer Science and Engineering student with a passion for coding and learning new technologies.
@@ -32,7 +32,7 @@ I am a Computer Science and Engineering student with a passion for coding and le
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:shiam.sharif.07@gmail.com)
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -42,5 +42,5 @@ Here are some of the projects I've worked on:
 
 Feel free to check out my repositories for more!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?shiamsharif=shiamsharif&color=brightgreen)
 
