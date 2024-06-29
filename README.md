@@ -1,32 +1,46 @@
-<h1 align="center">Hey! This is Shiam Sharif</h1>
-<h3 align="center">A passionate programmer</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<!-- <img align="right" src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
+## About Me
+I am a Computer Science and Engineering student with a passion for coding and learning new technologies.
 
-<img align="right" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.webp" width=400 height=660 frameBorder="0" allowFullScreen></img>
+## Skills
+- **Programming Languages:**
+  - C
+  - C++
+  - Python
+  - Java
 
-![](https://raw.githubusercontent.com/shiamsharif/cf/main/output/light_card.svg#gh-dark-mode-only)
-<!-- ![](https://raw.githubusercontent.com/shiamsharif/cf/main/output/light_card.svg) -->
+- **Frameworks and Libraries:**
+  - Django
 
+- **Frontend:**
+  - Bootstrap
+  - Tailwind CSS
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xX0ZAK0Xx" alt="xX0ZAK0Xx" /></a> </p> -->
+- **Tools:**
+  - Postman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xx0zak0xx&label=Profile%20views&color=0e75b6&style=flat" alt="xX0ZAK0Xx" /> </p>
+- **Database:**
+  - SQL / Databases
 
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shiam-sharif-736339251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zayed oyshik" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009853391200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. zayed oyshik" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shiam.sharif.07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakgrammer" height="30" width="40" /></a>
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Email](mailto:your-email@example.com)
 
-</p>
+## Projects
+Here are some of the projects I've worked on:
+- [Project 1](https://github.com/your-username/project1) - Description of project 1
+- [Project 2](https://github.com/your-username/project2) - Description of project 2
+- [Project 3](https://github.com/your-username/project3) - Description of project 3
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-</p>
+Feel free to check out my repositories for more!
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
