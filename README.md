@@ -31,8 +31,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiamsharif&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shiam-sharif-736339251/))
-[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)](https://app.netlify.com/teams/shiamsharif)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shiam-sharif-736339251])
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)]([https://app.netlify.com/teams/shiamsharif])
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shiam.sharif.07@gmail.com)
 
 ## 🚀 Projects
