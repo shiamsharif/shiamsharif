@@ -1,6 +1,7 @@
 # Hi there, I'm Sheike Shiam Sharif! 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Code+Background+Banner)
+![Banner](https://images.unsplash.com/photo-1506111583091-79966d7f56b5)
+
 
 ## About Me
 🎓 I am a **Computer Science and Engineering** student with a passion for coding and learning new technologies. I love exploring new fields and constantly improving my skills.
