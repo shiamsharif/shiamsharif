@@ -36,8 +36,8 @@
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- [**Project 1**](https://github.com/shiamsharif/project1) - *Description of project 1*
-- [**Project 2**](https://github.com/shiamsharif/project2) - *Description of project 2*
+- [**Project 1**](https://github.com/shiamsharif/eta-Burger) - *Description of project 1*
+- [**Project 2**](https://github.com/shiamsharif/ETA-Bank) - *Description of project 2*
 - [**Project 3**](https://github.com/shiamsharif/project3) - *Description of project 3*
 
 Feel free to check out my repositories for more!
