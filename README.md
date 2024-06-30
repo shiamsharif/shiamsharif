@@ -1,6 +1,7 @@
 # Hi there, I'm Sheike Shiam Sharif! 👋
 
-![Banner](https://images.unsplash.com/photo-1506111583091-79966d7f56b5)
+![Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c)
+
 
 
 ## About Me
